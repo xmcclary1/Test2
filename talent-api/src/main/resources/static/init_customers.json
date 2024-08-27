@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Connor Eastman",
+        "role": "admin"
+    },
+    {
+        "id": "2",
+        "name": "Ron Johnson",
+        "role": "user"
+    },
+    {
+        "id": "3",
+        "name": "Nadia Kennedy",
+        "role": "user"
+    }
+]

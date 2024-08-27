@@ -1,0 +1,20 @@
+# Ignore OS generated files
+.DS_Store
+
+# Ignore IDE directories
+.idea/
+.vscode/
+
+# Ignore Maven output
+/target/
+
+# Ignore build output directories
+/build/
+
+# Ignore environment files
+.env
+
+# Other specific ignores
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
